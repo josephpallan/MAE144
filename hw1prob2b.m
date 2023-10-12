@@ -19,3 +19,5 @@ end
 
 x_new
 y_new
+
+(x_new*a - b*y_new) - new_f
